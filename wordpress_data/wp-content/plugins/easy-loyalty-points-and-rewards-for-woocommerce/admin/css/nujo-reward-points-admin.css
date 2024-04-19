@@ -1,0 +1,92 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+body.woocommerce_page_nujo-reward-points-settings .update-nag {
+   display: none;
+}
+
+ #woocommerce-product-data ul.wc-tabs li.nrp_tab_options a:before {
+    font-family: dashicons;
+    content: '\f487';
+}
+
+.nrp_list_table {
+    margin-top: 30px;
+}
+
+#nrp_product_data {
+    display: none;
+}
+
+.nrp-help-text {
+   color: #666;
+   font-style: italic;
+}
+
+.nrp-help-text span {
+    background: #d8d8d8;
+    padding: 1px;
+    font-style: normal;
+}
+
+#nrp-header {
+   padding: 22px;
+   margin-left: -20px;
+   background: #fff;
+   border-bottom: 1px solid #c3c4c7;
+   margin-bottom: 0;
+}
+
+#nrp-header h1 {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#nrp-header img {
+   margin-left: 1px;
+}
+
+#nrp-header h1 {
+   font-size: 16px;
+   margin: 0;
+   padding: 0;
+}
+
+#nrp-header h1 span {
+   color: #c3c4c7;
+}
+
+#nrp-support {
+   padding: 10px 22px ;
+   margin-left: -20px;
+   margin-bottom: 0;
+}
+
+h2.nrp-top-h2 {
+   display: none;
+}
+
+.nrp-upgrade-box {
+   display: inline-block;
+   color: #000;
+   padding: 5px 20px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   background: #C7DEF4;
+   border-radius: 10px;
+}
+
+.nrp-upgrade-box p {
+   font-size: 15px;
+}
+
+.nrp-upgrade-box .nrp-upgrade-link {
+   font-size: 20px;
+}
+
+.nrp-upgrade-box span {
+   color: #306399;
+}

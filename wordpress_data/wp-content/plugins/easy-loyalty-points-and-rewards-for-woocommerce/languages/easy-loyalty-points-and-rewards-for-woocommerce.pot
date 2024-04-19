@@ -1,0 +1,684 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Loyalty Points and Rewards for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-28 00:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0.1\n"
+"X-Domain: easy-loyalty-points-and-rewards-for-woocommerce"
+
+#: includes/class-nujo-reward-points-form.php:99
+#, php-format
+msgid ""
+"\"%1$s\" monetary value must be entered with one monetary decimal point "
+"(%2$s) and no currency symbol or thousands seperator."
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:144
+#, php-format
+msgid ""
+"\"%1$s\" must be entered with one monetary decimal point (%2$s) and no "
+"currency symbol or thousands seperator."
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:89
+#: includes/class-nujo-reward-points-form.php:127
+#, php-format
+msgid "\"%s\" is required."
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:161
+#, php-format
+msgid "\"%s\" must be a whole number with no comma or decimal."
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:94
+#, php-format
+msgid "\"%s\" points amount must be a whole number with no comma or decimal."
+msgstr ""
+
+#: includes/functions.php:73
+#, php-format
+msgid "%1$s adjusted by %2$s"
+msgstr ""
+
+#: includes/functions.php:75
+#, php-format
+msgid "%1$s adjusted by staff"
+msgstr ""
+
+#: includes/functions.php:85
+#, php-format
+msgid "%1$s adjusted for order refund"
+msgstr ""
+
+#: includes/functions.php:88 includes/functions.php:267
+#, php-format
+msgid "%1$s bonus for creating account"
+msgstr ""
+
+#: includes/functions.php:91 includes/functions.php:266
+#, php-format
+msgid "%1$s bonus for first order"
+msgstr ""
+
+#: includes/functions.php:79
+#, php-format
+msgid "%1$s earned for purchase"
+msgstr ""
+
+#: includes/functions.php:82
+#, php-format
+msgid "%1$s redeemed towards purchase"
+msgstr ""
+
+#: public/partials/nujo-reward-points-public-my-account.php:39
+#, php-format
+msgid "%s balance"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:90
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade to Pro</a>"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:83
+msgid ""
+"<strong>Action rewards</strong> - earn bonus points for new accounts or "
+"first orders"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:34
+#, php-format
+msgid ""
+"<strong>Any issues?</strong> Please let us know on our <a href=\"%s\" "
+"target=\"_blank\">support forum</a>!"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:79
+msgid "<strong>Points expiration</strong> - expire points after a time period"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:77
+msgid ""
+"<strong>Points multiplier</strong> - schedule events such as <strong>double "
+"points promotions</strong>"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:85
+msgid ""
+"<strong>Product bundles support</strong> - earn points for bundle type "
+"products"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:81
+msgid ""
+"<strong>Product/category point settings</strong> - set bonus points or "
+"exclusions at a product/category level"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:87
+msgid ""
+"<strong>Technical support</strong> - get expert help from our friendly team"
+msgstr ""
+
+#: includes/functions.php:264
+msgid ""
+"A valid license key is required for access to automatic plugin upgrades and "
+"product support."
+msgstr ""
+
+#: includes/class-nujo-reward-points-account.php:115
+msgid "Account not found"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:34
+msgid "Account Signup Reward"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:65
+msgid "Advanced"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:589
+msgid "Advanced Settings"
+msgstr ""
+
+#: public/partials/nujo-reward-points-public-my-account.php:13
+msgid "Amount"
+msgstr ""
+
+#: includes/functions.php:261
+msgid "Apply to existing points"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:18
+msgid "Assign Points When"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:51
+msgid "Assigned to customer"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:877
+msgid "Authentication Error: please refresh the page and try again"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:885
+msgid "Authentication Error: user role not sufficient"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:379
+#: admin/class-nujo-reward-points-admin.php:404
+#: admin/class-nujo-reward-points-admin.php:438
+#: admin/class-nujo-reward-points-admin.php:463
+#: admin/class-nujo-reward-points-admin.php:488
+#: admin/class-nujo-reward-points-admin.php:513
+#: admin/class-nujo-reward-points-admin.php:538
+msgid "Available values:"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:920
+#, php-format
+msgid "Balance updated to %2$s"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:605
+msgid "Calculate points after discounts/coupons"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:606
+msgid "Calculate points before discounts/coupons"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:28
+msgid "Calculation Mode"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:36
+msgid "Cancelled"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:420
+msgid "Cart/Checkout Messages"
+msgstr ""
+
+#: includes/class-nujo-reward-points-activator.php:139
+#: includes/class-nujo-reward-points-activator.php:166
+#: public/class-nujo-reward-points-public.php:483
+msgid "Click here to redeem"
+msgstr ""
+
+#: includes/class-nujo-reward-points-message.php:28
+msgid ""
+"Complete this purchase to earn {points} {points_label} worth {points_value}."
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:43
+#: includes/class-nujo-reward-points-log-table.php:42
+msgid "Customer"
+msgstr ""
+
+#: public/class-nujo-reward-points-public.php:283
+#, php-format
+msgid "Customer awarded %1$s %2$s for this order."
+msgstr ""
+
+#: public/class-nujo-reward-points-public.php:311
+#, php-format
+msgid "Customer redeemed %1$s %2$s for a %3$s discount."
+msgstr ""
+
+#: includes/class-nujo-reward-points-log-table.php:46
+#: public/partials/nujo-reward-points-public-my-account.php:11
+msgid "Date"
+msgstr ""
+
+#: includes/functions.php:257
+msgid "Days"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:32
+msgid "Debug Mode?"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:22
+msgid "Default Message (Guest)"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:27
+msgid "Default Message (Logged In)"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:660
+msgid ""
+"Delete plugin settings when plugin is uninstalled. This cannot be reversed - "
+"use carefully!"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:31
+msgid "Delete Points Data On Uninstall?"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:684
+msgid ""
+"Delete points log and balances when plugin is uninstalled. This cannot be "
+"reversed - use carefully!"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:30
+msgid "Delete Settings On Uninstall?"
+msgstr ""
+
+#: includes/class-nujo-reward-points-log-table.php:44
+msgid "Description"
+msgstr ""
+
+#: includes/class-nujo-reward-points-message.php:10
+msgid ""
+"Earn <strong>{points} {points_label}</strong> worth <strong>{points_value}"
+"</strong>"
+msgstr ""
+
+#: includes/class-nujo-reward-points-message.php:13
+msgid ""
+"Earn up to <strong>{points} {points_label}</strong> worth <strong>"
+"{points_value}</strong>"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:13
+msgid "Earning Points"
+msgstr ""
+
+#. Name of the plugin
+msgid "Easy Loyalty Points and Rewards for WooCommerce"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:711
+msgid "Enable debug mode"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:913
+msgid "Error:"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:904
+msgid "Error: Balance cannot be negative"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:897
+msgid "Error: Balance must be a whole number with no comma or decimal"
+msgstr ""
+
+#: public/partials/nujo-reward-points-public-my-account.php:12
+msgid "Event"
+msgstr ""
+
+#: includes/functions.php:94
+msgid "Event description unavailable"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:35
+msgid "First Order Reward"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:64
+msgid "General Settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nujoplugins.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://wordpress.org/plugins/easy-loyalty-points-and-rewards-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Increase WooCommerce customer loyalty with a points and rewards system."
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:48
+msgid "Last Activity"
+msgstr ""
+
+#: includes/functions.php:260
+msgid "Leave empty if points do not expire."
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:36 includes/functions.php:263
+msgid "License Key"
+msgstr ""
+
+#: includes/class-nujo-reward-points-message.php:16
+msgid ""
+"Login or create an account to earn {points} {points_label} worth "
+"{points_value} with this purchase."
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:65
+msgid "Manage customer balance"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:16
+msgid "Min Order Value to Redeem"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:17
+msgid "Min Points to Redeem"
+msgstr ""
+
+#: includes/functions.php:258
+msgid "Months"
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:184
+msgid "New balance"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:706
+msgid "No"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:74
+#, php-format
+msgid ""
+"No %1$s earned as the customer was not logged in. The potential number of "
+"%1$s was %2$s."
+msgstr ""
+
+#. Author of the plugin
+msgid "Nujo Plugins"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:241
+msgid "Only applicable if greater than \"Redeeming Points\" amount"
+msgstr ""
+
+#: includes/class-nujo-reward-points-log-table.php:45
+#: public/partials/nujo-reward-points-public-my-account.php:14
+msgid "Order"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:290
+msgid "Order completed"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:289
+msgid "Order paid"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:46
+msgid "Pending - will be assigned once order has been completed"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:41
+msgid "Pending - will be assigned once payment has been received"
+msgstr ""
+
+#: includes/functions.php:265
+#, php-format
+msgid ""
+"Please enter your <a href=\"%s\">license key</a> to receive access to "
+"automatic upgrades and support."
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:80
+msgid "Plugin was not active for this order."
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:46
+#: admin/partials/nujo-reward-points-admin-display.php:135
+msgid "Point Balances"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:29
+msgid "Point Rounding Mode"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:175
+msgid "Point Settings"
+msgstr ""
+
+#: includes/class-nujo-reward-points-activator.php:144
+#: includes/class-nujo-reward-points-log-table.php:43
+msgid "Points"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:240
+msgid "points"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:107
+msgid "Points and Rewards"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:824
+msgid "Points are redeemed in multiples of this amount"
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:44
+msgid "Points Balance"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:28
+msgid "Points Earned:"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:33
+msgid "Points Expire After"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:15
+msgid "Points Label"
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:49
+#: admin/partials/nujo-reward-points-admin-display.php:47
+#: admin/partials/nujo-reward-points-admin-display.php:168
+msgid "Points Log"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:56
+msgid "Points Redeemed:"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:34
+#: admin/partials/nujo-reward-points-admin-order-meta.php:39
+#: admin/partials/nujo-reward-points-admin-order-meta.php:44
+#: admin/partials/nujo-reward-points-admin-order-meta.php:49
+msgid "Points Status:"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:361
+msgid "Product Page Messages"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:62
+msgid "Quick Links:"
+msgstr ""
+
+#: public/partials/nujo-reward-points-public-my-account.php:60
+msgid "Recent events"
+msgstr ""
+
+#: public/class-nujo-reward-points-public.php:381
+#, php-format
+msgid "Redeem %s"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:26
+msgid "Redeem Button Text"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:25
+msgid "Redeem Points for Reward"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:14
+msgid "Redeeming Points"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:786
+msgid "Restore to default"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:935
+msgid "Reward Points"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:633
+msgid "Round down"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:631
+msgid "Round to nearest integer"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:632
+msgid "Round up"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:130
+msgid "Search Customers"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:163
+msgid "Search Log"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:141
+#: admin/partials/nujo-reward-points-admin-display.php:174
+#, php-format
+msgid "Search results for: \"%s\""
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:1058
+#: admin/partials/nujo-reward-points-admin-display.php:48
+msgid "Settings"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:20
+msgid "Single Product Message"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:810
+msgid "Spending"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:19
+msgid "Tax Mode"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:132
+msgid ""
+"This plugin requires coupons to be enabled. Go to: WooCommerce > Settings > "
+"General > Enable coupons."
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:24
+msgid "Under Min Points for Reward"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:23
+msgid "Under Min Spend for Reward"
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:185
+msgid "Update"
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:50
+msgid "Update Balance"
+msgstr ""
+
+#: includes/functions.php:262
+msgid "Update expiry date of all existing points"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:74
+#, php-format
+msgid ""
+"Upgrade to our <a href=\"%s\" target=\"_blank\">Pro version</a> for even "
+"more features:"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:1061
+#: admin/partials/nujo-reward-points-admin-display.php:49
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:316
+msgid "Use tax exclusive prices for calculations"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:315
+msgid "Use tax inclusive prices for calculations"
+msgstr ""
+
+#: includes/class-nujo-reward-points-form.php:21
+msgid "Variable Product Message"
+msgstr ""
+
+#: includes/class-nujo-reward-points-account-table.php:171
+msgid "View Points Log"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-order-meta.php:66
+msgid "View points log for order"
+msgstr ""
+
+#: admin/partials/nujo-reward-points-admin-display.php:45
+msgid "Welcome"
+msgstr ""
+
+#: includes/functions.php:259
+msgid "Years"
+msgstr ""
+
+#: admin/class-nujo-reward-points-admin.php:707
+msgid "Yes"
+msgstr ""
+
+#: public/partials/nujo-reward-points-public-my-account.php:46
+#, php-format
+msgid "You have %1$s %2$s worth %3$s."
+msgstr ""
+
+#: public/partials/nujo-reward-points-public-my-account.php:109
+#, php-format
+msgid "You have not earned any %s yet."
+msgstr ""
+
+#: public/class-nujo-reward-points-public.php:444
+#, php-format
+msgid "You have redeemed %1$s %2$s."
+msgstr ""
+
+#: includes/class-nujo-reward-points-message.php:22
+msgid ""
+"You have {points_balance} {points_label}. Claim your reward once you reach "
+"{min_points_to_redeem}!"
+msgstr ""
+
+#: includes/class-nujo-reward-points-message.php:19
+msgid ""
+"You have {points_balance} {points_label}. Spend another {min_spend_remaining}"
+" to redeem your {reward_value} discount."
+msgstr ""
+
+#: includes/class-nujo-reward-points-message.php:25
+msgid ""
+"You have {points_balance} {points_label}. You can redeem {points_to_redeem} "
+"for a {reward_value} discount!"
+msgstr ""

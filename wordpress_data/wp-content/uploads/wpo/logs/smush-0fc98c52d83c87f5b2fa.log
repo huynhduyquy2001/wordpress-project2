@@ -1,0 +1,37 @@
+[2024-04-01 06:56:03 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-04-01 06:56:06 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2024-04-01 06:56:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-04-01 06:56:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-04-01 06:56:06 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-04-01 06:56:06 : INFO] - Re_Smush_It_Task - Attachment ID : 6, Started on : April 01, 2024 06:56:06 
+[2024-04-01 06:56:06 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2024-04-01 06:56:12 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2024-04-01 06:56:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 06:56:18 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 100.24 KB to 73.05 KB, saving 27.12 percent, using WP-Optimize 
+[2024-04-01 06:56:18 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-04-01 06:56:18 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-04-01 06:56:18 : INFO] - Re_Smush_It_Task - Attachment ID : 13, Started on : April 01, 2024 06:56:06 
+[2024-04-01 06:56:18 : INFO] - File: Tra-Sua-Tran-Chau-Duong-Den.jpg, Compression quality: 92 
+[2024-04-01 06:56:22 : INFO] - Backing up the original image - 2024/03/Tra-Sua-Tran-Chau-Duong-Den-updraft-pre-smush-original.jpg 
+[2024-04-01 06:56:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 06:56:33 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2024/03/Tra-Sua-Tran-Chau-Duong-Den.jpg.The file was compressed from 321.17 KB to 315.27 KB, saving 1.84 percent, using WP-Optimize 
+[2024-04-01 06:56:33 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-04-01 06:56:33 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-04-01 06:56:33 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : April 01, 2024 06:56:06 
+[2024-04-01 06:56:33 : INFO] - File: 5ce51455eb8be-nhtsposter-600x450-1.png, Compression quality: 92 
+[2024-04-01 06:56:35 : INFO] - Backing up the original image - 2024/04/5ce51455eb8be-nhtsposter-600x450-1-updraft-pre-smush-original.png 
+[2024-04-01 06:56:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 06:56:42 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2024/04/5ce51455eb8be-nhtsposter-600x450-1.png.The file was compressed from 89.73 KB to 26.75 KB, saving 70.18 percent, using WP-Optimize 
+[2024-04-01 06:56:42 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-04-01 06:56:42 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-04-01 06:56:42 : INFO] - Re_Smush_It_Task - Attachment ID : 25, Started on : April 01, 2024 06:56:06 
+[2024-04-01 06:56:42 : INFO] - File: tho-ve-tra-sua-2.jpg, Compression quality: 92 
+[2024-04-01 06:56:44 : INFO] - Backing up the original image - 2024/04/tho-ve-tra-sua-2-updraft-pre-smush-original.jpg 
+[2024-04-01 06:56:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-01 06:56:50 : INFO] - Successfully optimized the image - /var/www/html/wp-content/uploads/2024/04/tho-ve-tra-sua-2.jpg.The file was compressed from 55.62 KB to 54.08 KB, saving 2.78 percent, using WP-Optimize 
+[2024-04-01 06:56:50 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-04-01 06:56:50 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-04-01 06:56:50 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2024-04-01 06:56:50 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-04-01 06:56:50 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2024-04-02 03:07:07 : INFO] - Re_Smush_It_Task with attachment ID : 34, autocreated on : April 02, 2024 03:07:07 

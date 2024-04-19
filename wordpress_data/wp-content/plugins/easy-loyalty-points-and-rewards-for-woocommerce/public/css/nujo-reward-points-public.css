@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ 
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--nrp-points a:before {
+  content: '\f06b';
+}
+
+.nrp-product-message,
+.nrp-product-variable-message {
+  margin-bottom: 12px;
+}

@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="nrp_points_label" />
+        <key name="nrp_message_single_product" />
+        <key name="nrp_message_variable_product" />
+        <key name="nrp_message_cart_complete_purchase" />
+        <key name="nrp_message_cart_guest" />
+        <key name="nrp_message_cart_reward_min_spend" />
+        <key name="nrp_message_cart_reward_min_points" />
+        <key name="nrp_message_cart_apply_discount" />
+        <key name="nrp_message_cart_apply_discount_button" />
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,20 @@
+2024-04-07T10:04:35+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 2
+    [gdpr_fields] => 
+)
+2024-04-07T10:05:22+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 2
+    [gdpr_fields] => 
+)
+2024-04-07T13:31:25+00:00 NOTICE handleOrderUpdate :: order_status
+2024-04-07T13:31:25+00:00 NOTICE handleOrderUpdate :: order_status
+2024-04-07T13:33:31+00:00 NOTICE handleOrderUpdate :: order_status
+2024-04-07T13:33:31+00:00 NOTICE handleOrderUpdate :: order_status
+2024-04-07T13:35:32+00:00 NOTICE handleOrderUpdate :: order_status
+2024-04-07T13:35:32+00:00 NOTICE handleOrderUpdate :: order_status
+2024-04-07T13:37:47+00:00 NOTICE handleOrderUpdate :: order_status
+2024-04-07T13:37:47+00:00 NOTICE handleOrderUpdate :: order_status

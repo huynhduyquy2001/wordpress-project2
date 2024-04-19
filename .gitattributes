@@ -1,0 +1,7 @@
+* text=auto
+*.json binary
+*.lock binary
+*.cnf binary
+db_data/ib_buffer_pool binary
+db_data/
+
